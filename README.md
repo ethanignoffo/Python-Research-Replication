@@ -10,7 +10,7 @@ The key components of this repository include:
 ## Project Structure
 - **/code**: Contains the master code file used for the replication analysis.
   - **MasterCode.ipynb**: Python code for replicating the study’s findings.
-  
+- **/datasets**: Contains all the original datasets provided by the original study that were used in this replication. 
 - **/manuscript**: Contains the final written report of the replication study.
   - **Replication_of_Burke_et_al_2009_Warming_and_Civil_War_in_Africa.pdf**: The PDF document with detailed results and analysis.
 
